@@ -38,4 +38,4 @@ npm run dev
 - Explorar luzes, câmeras e materiais 3D no Three.js.
 - Criar novos temas personalizados e testar responsividade com TailwindCSS.
 
-##Este projeto é pessoal e focado no aprendizado, mas sugestões e dicas são sempre bem-vindas!
+## Este projeto é pessoal e focado no aprendizado, mas sugestões e dicas são sempre bem-vindas!

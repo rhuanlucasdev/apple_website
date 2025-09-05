@@ -1,13 +1,41 @@
-# React + Vite
+# Apple-Inspired Website Animations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Este projeto é uma tentativa de criar um site inspirado na Apple para aprender e experimentar **animações com GSAP** (GreenSock Animation Platform) e **Three.js** (para animações 3D), tudo dentro do ecossistema **React** e usando **JSX**.  
 
-Currently, two official plugins are available:
+Além disso, estou utilizando **TailwindCSS** com **temas personalizados**, explorando como criar estilos reutilizáveis e aplicar design consistente, enquanto pratico habilidades de **frontend moderno**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Objetivos
+- Aprender a integrar **GSAP** com React para animações de elementos HTML.  
+- Explorar **Three.js** para criar e animar objetos 3D.  
+- Trabalhar com **TailwindCSS** e customização de temas para estilização avançada.  
+- Criar uma experiência visual interativa inspirada no site da Apple.  
 
-## Expanding the ESLint configuration
+## Tecnologias
+- [React](https://reactjs.org/)  
+- [GSAP](https://greensock.com/gsap/)  
+- [Three.js](https://threejs.org/)  
+- [TailwindCSS](https://tailwindcss.com/) com temas personalizados  
+- JSX / CSS para estilização adicional  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# apple_website
+## Como rodar o projeto
+1. Clone este repositório:  
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+```
+2. Instale as dependências:
+```bash
+npm install
+```
+3. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
+4. Abra o navegador em http://localhost:3000
+
+## Proximos passos
+- Adicionar mais animações interativas com GSAP.
+- Explorar luzes, câmeras e materiais 3D no Three.js.
+- Criar novos temas personalizados e testar responsividade com TailwindCSS.
+
+##Este projeto é pessoal e focado no aprendizado, mas sugestões e dicas são sempre bem-vindas!

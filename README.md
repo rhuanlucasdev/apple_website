@@ -5,6 +5,8 @@ Este projeto é uma tentativa de criar um site inspirado na Apple para aprender 
 
 Além disso, estou utilizando **TailwindCSS** com **temas personalizados**, explorando como criar estilos reutilizáveis e aplicar design consistente, enquanto pratico habilidades de **frontend moderno**.  
 
+🚀[Live Demo](https://react-3d-iphone.netlify.app)🚀
+
 ## Objetivos
 - Aprender a integrar **GSAP** com React para animações de elementos HTML.  
 - Explorar **Three.js** para criar e animar objetos 3D.  
